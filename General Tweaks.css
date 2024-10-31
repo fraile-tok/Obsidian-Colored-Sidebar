@@ -90,3 +90,7 @@ img {
 .align-quotes blockquote {
   text-align: end;
 }
+
+.wide-page {
+  --file-line-width: 900px !important;
+}
