@@ -4,6 +4,7 @@
 ### *Create a [colorfully cascading](https://youtu.be/rAkerV8rlow) Obsidian sidebar!*
 
 ![Example](./example.png)
+
 This snippet targets folders beginning with numbered prefixes, and applies full
 color formatting based on the root colors listed inside the snippet. The prefixes are both
 customizable and extensible; feel free to change, add, and remove them based on
